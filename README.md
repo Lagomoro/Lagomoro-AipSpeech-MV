@@ -1,6 +1,6 @@
 # Lagomoro-AipSpeech-MV
 Baidu aip sdk for RPG Maker MV  
-MV最没用的插件之聊天机器人  
+MV最没用的插件之语音助手  
 建议带耳机体验，否则会影响录音质量  
   
   
