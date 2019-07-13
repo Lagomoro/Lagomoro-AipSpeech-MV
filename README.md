@@ -1,12 +1,13 @@
 # Lagomoro-AipSpeech-MV
-Baidu aip sdk for RPG Maker MV
-MV最没用的插件之聊天机器人
+Baidu aip sdk for RPG Maker MV  
+MV最没用的插件之聊天机器人  
+建议带耳机体验，否则会影响录音质量  
   
   
   
 ## Description
 
-帮助详情请参阅chm使用手册  
+帮助详情请参阅chm使用手册，使用手册暂未编写。  
 
 
 
